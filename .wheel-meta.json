@@ -1,0 +1,22 @@
+{
+  "wheel_id": 670,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-153",
+  "project": "fencing-services-caboolture-ee1f124aaa160fb8c522e6e568cd63dca5b",
+  "parent_t1_ref": "fencingcaboolture-008",
+  "node_role": "buffer",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing services caboolture",
+  "intended_url": "https://sitesau.github.io/fencingcaboolture-153/",
+  "tier": "T2",
+  "writeback_nonce": "bb2715527ac81442",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-services-caboolture-008/",
+      "anchor": "a guide to fencing services caboolture",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
